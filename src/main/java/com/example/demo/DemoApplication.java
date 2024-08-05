@@ -1,13 +1,13 @@
-package com.escola.atividadespring;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AtividadeSpringApplication {
+public class DemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AtividadeSpringApplication.class, args);
+        SpringApplication.run(DemoApplication.class, args);
     }
 
 }
